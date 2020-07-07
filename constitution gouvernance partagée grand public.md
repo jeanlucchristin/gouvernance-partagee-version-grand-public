@@ -1,7 +1,7 @@
 # La gouvernance partagée 
 # Version grand public 
 *S'organiser pour réaliser quelque chose en favorisant la coopération
-licence ouverte CCbySA-4.0
+licence ouverte* CCbySA-4.0
 
 # Un objectif 
 
