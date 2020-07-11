@@ -153,6 +153,7 @@ Elle est dense, un accompagnement par des professionnels peut être bienvenu pou
 # Co-auteur.e.s
 Cette oeuvre est le fruit de la rencontre et du travail d'un collectif. Ses co-auteurs sont : 
 
+ - Jean-Christophe Ciceron
  
 
 
