@@ -148,9 +148,10 @@ Pour aller plus loin vous pouvez télécharger [la version intégrale de la gouv
 
 \-    les ingrédients de l’efficacité humaniste
 
- 
-
 Elle est dense, un accompagnement par des professionnels peut être bienvenu pour plonger rapidement dans ce qui vous sera utile. 
+
+# Co-auteur.e.s
+Cette oeuvre est le fruit de la rencontre et du travail d'un collectif. Ses co-auteurs sont : 
 
  
 
