@@ -155,10 +155,15 @@ Elle est dense. Un accompagnement par des professionnels peut être bienvenu pou
 6 co-auteurs se sont réunis pour créer cette version grand public de la gouvernance partagée : 
 
 Nicolas Sabatier _ Time for the Planet 
+
 Jeanluc Christin _ humanOpale
+
 Romain Vignes _ Les Jardiniers du Nous 
+
 Jean-Christophe Ciceron _
+
 Laurent Favia _ Compagnon de l’Archipel
+
 Frédéric Castoldi _ Centre de Gestion de l’Isère 
 
 # Annexe : exemples de processus 
