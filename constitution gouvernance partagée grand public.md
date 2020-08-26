@@ -1,6 +1,5 @@
 # La gouvernance partagée 
-# Version grand public 
-# V1.0
+# Version grand public    V1.0
 *S'organiser pour réaliser quelque chose en favorisant la coopération*
 
 licence ouverte CCbySA-4.0
