@@ -137,17 +137,17 @@ Pour aller plus loin vous pouvez télécharger [la version intégrale de la gouv
 
  
 
-\-    un curseur managérial pour régler le niveau d’autonomie, de délégation et de liberté des membres 
+\-    un curseur managérial pour régler le niveau d’autonomie, de délégation et de liberté des membres,
 
-\-    un auto-diagnostic pour choisir où agir immédiatement 
+\-    un auto-diagnostic pour choisir où agir immédiatement,
 
-\-    la distinction personne / rôles
+\-    la distinction personne / rôles,
 
-\-    le principe essais / apprentissages
+\-    le principe essais / apprentissages,
 
-\-    des exemples de processus de décisions collectifs (consentement, concordance)
+\-    des exemples de processus de décisions collectifs (consentement, concordance),
 
-\-    les ingrédients de l’efficacité humaniste
+\-    les ingrédients de l’efficacité humaniste.
 
 Elle est dense. Un accompagnement par des professionnels peut être bienvenu pour plonger rapidement dans ce qui vous sera utile. 
 
