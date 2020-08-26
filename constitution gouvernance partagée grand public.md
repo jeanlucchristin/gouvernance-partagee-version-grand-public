@@ -1,5 +1,6 @@
 # La gouvernance partagée 
 # Version grand public 
+# V1.0
 *S'organiser pour réaliser quelque chose en favorisant la coopération*
 
 licence ouverte CCbySA-4.0
@@ -163,8 +164,12 @@ Frédéric Castoldi _ Centre de Gestion de l’Isère
 
 # Annexe : exemples de processus 
 
-### Exemple de Temps de demandes d’actions : le Triage    ![img](file:///C:/Users/allia/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+### Exemple de Temps de demandes d’actions : le Triage    
 
-###  Exemple de décision collective : la décision par consentement ![img](file:///C:/Users/allia/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
+![alt tag](https://user-images.githubusercontent.com/38285180/91312488-964d4f80-e7b4-11ea-8bf5-6f823c825b77.png)
+
+###  Exemple de décision collective : la décision par consentement
+
+![alt tag](https://user-images.githubusercontent.com/38285180/91312879-03f97b80-e7b5-11ea-98f9-f26320cdeab9.png)
 
  
