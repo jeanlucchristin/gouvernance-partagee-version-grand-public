@@ -6,7 +6,7 @@ licence ouverte CCbySA-4.0
 
 # Un objectif 
 
-Un **objectif** est une finalité à réaliser par un **Collectif** pour **répondre à un besoin.** Il peut être précisé par d**es attentes** concrètes, mesurables et limitées dans le temps.
+Un **objectif** est une finalité à réaliser par un **Collectif** pour **répondre à un besoin.** Il peut être précisé par **des attentes** concrètes, mesurables et limitées dans le temps.
 
 # Les équipes
 
@@ -14,7 +14,8 @@ Une **équipe** est un **groupe de personnes** réunies pour réaliser l’objec
  Les membres d’une équipe **mettent à disposition** leurs compétences, leur motivation et du temps **au service** de la réalisation de l’objectif.      
 
 L’objectif d’une équipe peut provenir soit de la structure, soit d’un de ses membres. 
- Une fois l’objectif atteint, l’équipe se dissout après un temps festif pour célébrer la réalisation. Quand une équipe ne nécessite qu’une personne, on l’appelle un **rôle**.
+L’équipe est libre de décider de la façon qui lui paraît la plus pertinente pour réaliser son objectif. 
+Une fois l’objectif atteint, l’équipe se dissout après un temps festif pour célébrer la réalisation. Quand une équipe ne nécessite qu’une personne, on l’appelle un **rôle**.
 
 # Organisation d’une équipe
 
@@ -22,46 +23,46 @@ L’objectif d’une équipe peut provenir soit de la structure, soit d’un de 
 
  Une **équipe** possède :
 
-●   un **Objectif**, qui est le besoin pour lequel ses membres se mobilisent composé de :
+●   un **Objectif**, qui correspond au besoin  pour lequel ses membres se mobilisent.
+Il est composé de :
 
-○   un **projet global** qui fonde la raison d’être de l’équipe
+○   un **projet global** qui fonde la raison d’être de l’équipe,
 
-○   des **attendus concrets**, les actions et compétences à mettre en œuvre pour atteindre l’objectif)
+○   des **attendus concrets**, les actions et compétences à mettre en œuvre pour atteindre l’objectif.
 
 ●   Des membres. Chaque membre possède un ou plusieurs **Rôles** avec leurs objectifs et attendus. Tous ont en complément l’attendu de percevoir et de prendre soin de l’égrégore.
 
 ●   Un **Egrégore**, c’est à dire une énergie de groupe constituée par les désirs des personnes réunies pour atteindre l’objectif fixé.
 
-●   4 **rôles prédéfinis**, en plus des rôles de compétences que chacun apporte
+●   4 **rôles prédéfinis**, en plus des rôles de compétences que chacun apporte :
 
-○   rôle **lead** : il garde en tête le projet global et fait en sorte qu’il soit réalisé
+○   rôle **lead** : il garde en tête le projet global et fait en sorte qu’il soit réalisé.
 
-○   rôle **facilitation** : il veille à ce que les pratiques de l’équipe soient conformes à ce document
+○   rôle **facilitation** : il veille à ce que les pratiques de l’équipe soient conformes à ce document.
 
-○   rôle **mémoire** : Il inscrit les décisions dans les documents officiels de la 
+○   rôle **mémoire** : : Il inscrit les décisions dans les documents officiels de l’équipe.
 
-○   rôle  **représentation** : il renseigne le siège de la structure pour savoir si les gens vont bien au sein de l’équipe et si elle avance comme elle veut sur ses objectifs
+○   rôle  **représentation** : : il renseigne l’équipe souche (qui lui a donné naissance) pour savoir si les gens vont bien au sein de l’équipe et si elle avance comme elle veut sur ses objectifs.
 
 Il existe trois façons de créer une équipe dans la structure.
 
-## 1.  A l’initiative du siège de la structure
+## 1.  A l’initiative d’une équipe souche
 
-Lorsqu’elle ressent un besoin dans le cadre de la réalisation de sa mission, la structure peut décider de confier la réalisation d’un objectif à une équipe.
+Lorsqu’elle ressent un besoin dans le cadre de la réalisation de sa mission, la structure (ou une équipe)  peut décider de confier la réalisation d’un objectif à une équipe spécifique.
 
 Pour cela, 
- Elle décrit le projet global et les attendus (ce qu’il faut faire pour l’atteindre). 
- Elle dresse une première liste de rôles qu’elle estime nécessaire à sa réalisation.
- Elle cherche auprès de ses membres les personnes nécessaires suffisamment motivées par le projet, compétentes et disponibles.
- Elle nomme le rôle représentation de cette équipe.
+Elle décrit le projet global et les attendus (ce qu’on peut attendre concrètement de l’équipe). 
+Elle dresse une première liste de rôles qu’elle estime nécessaire à sa réalisation.
+Elle cherche auprès de ses membres les personnes nécessaires suffisamment motivées par le projet, compétentes et disponibles.
+Elle nomme soit le rôle représentation soit le rôle lead de cette équipe.
 
-Les personnes intègrent l’équipe et se retrouvent dans une toute première réunion de lancement organisée par le rôle représentation. 
+Les personnes intègrent l’équipe et se retrouvent dans une toute première réunion de lancement organisée par ce rôle. 
 
-## 2.  A l’initiative de n’importe quel membre de la structure
+## 2.  A l’initiative de n’importe quel membre 
 
-Lorsqu’un membre de la structure a une idée de projet pour alimenter la mission de la structure, il peut rédiger l’objectif, le projet global, les attendus et préparer une première liste de rôles nécessaires selon lui.
+Lorsqu’un membre a une idée de projet pour alimenter la mission de la structure, il peut rédiger l’objectif, le projet global, les attendus et préparer une première liste de rôles nécessaires selon lui.
 
-Ce projet est soumis au siège de la structure qui valide et désigne un représentant pour faire partie de cette équipe.
-
+Ce projet est soumis au siège de la structure qui valide et désigne soit un représentant soit un rôle lead pour faire partie de cette équipe.
 La suite se déroule comme dans le premier cas.
 
 ## 3.  Par l’équipe elle-même 
@@ -80,19 +81,19 @@ La vie d’une équipe commence par la **réunion de lancement**.
 
 Ses attendus : 
 
-●   Les attentes de la structure vis à vis de l’équipe sont explicités. Il s’agit de rappeler le projet global et ses attendus. Des personnes ressources peuvent être invitées pour les expliquer)
+●	Les attentes de la structure (ou de l’équipe souche qui lui a donné naissance) vis à vis de l’équipe sont explicitées. Il s’agit de rappeler le projet global et ses attendus. Des personnes ressources peuvent être invitées pour les expliquer.
 
 ●   Les membres font connaissance.
 
 ●   Un temps est pris pour que chacun dise en quoi l’objectif de l’équipe résonne pour lui.
 
-●   Les rôles sont affectés
+●   Les rôles sont affectés.
 
-●   Les membres sont formés aux outils communs de travail le cas échéant
+●   Les membres sont formés aux outils communs de travail le cas échéant.
 
-●   Le coup d’envoi symbolique est donné
+●   Le coup d’envoi symbolique est donné.
 
-●   Les prochaines rencontres sont décidées 
+●   Les prochaines rencontres sont décidées. 
 
 ### Coopération 
 
@@ -103,28 +104,28 @@ Une fois cette première réunion passée, différents temps de coopération peu
 
 ●   Les temps de **relation** (pour restaurer des conditions relationnelles plus saines)
 
-●   Les temps de **sens** (pour proposer de mettre à jour l’objectif et pour les sujets éthiques)
+●   Les temps de **sens** (pour proposer de mettre à jour l’objectif et pour discuter des sujets éthiques)
 
-●   Les temps de **décision collective** (lorsque des choix collectifs sont nécessaires comme par exemple ajouter/modifier/supprimer un rôle)
+●   Les temps de **décisions collectives** (lorsque des choix collectifs sont nécessaires comme par exemple ajouter/modifier/supprimer un rôle ou une équipe)
 
- La structure peut définir des modalités communes à toute la structure pour ces temps ou les laisser libres.       
+ La structure peut définir des modalités communes à tous pour animer ces temps ou les laisser libres.  	     
  Deux exemples de processus sont fournis en annexe 
 
 # Dissolution d’une équipe 
 
-Lorsque l’objectif sera atteint, il sera nécessaire de dissoudre la cellule car elle n’a plus de raison d’être.
+Lorsque l’objectif sera atteint, il sera nécessaire de dissoudre l’équipe car elle n’aura plus de raison d’être.
 
 La dissolution sera marquée par un temps festif entre ses membres et ses invités.
 
  Un temps festif est un moment précieux pour :
 
-●   se féliciter du travail accompli
+●   se féliciter du travail accompli,
 
-●   montrer le travail réalisé à d’autres
+●   montrer le travail réalisé à d’autres,
 
-●   se dire au revoir
+●   se dire au revoir,
 
-●   donner goût à reprendre part à une équipe
+●   donner goût à reprendre part à une équipe.
 
  
 
@@ -148,21 +149,19 @@ Pour aller plus loin vous pouvez télécharger [la version intégrale de la gouv
 
 \-    les ingrédients de l’efficacité humaniste
 
-Elle est dense, un accompagnement par des professionnels peut être bienvenu pour plonger rapidement dans ce qui vous sera utile. 
+Elle est dense. Un accompagnement par des professionnels peut être bienvenu pour plonger rapidement dans ce qui vous sera utile. 
 
-# Co-auteur.e.s
-Cette oeuvre est le fruit de la rencontre et du travail d'un collectif. Ses co-auteurs sont : 
+# Auteurs
+6 co-auteurs se sont réunis pour créer cette version grand public de la gouvernance partagée : 
 
- - Jean-Christophe Ciceron
- 
-
-
-
- 
+Nicolas Sabatier _ Time for the Planet 
+Jeanluc Christin _ humanOpale
+Romain Vignes _ Les Jardiniers du Nous 
+Jean-Christophe Ciceron _
+Laurent Favia _ Compagnon de l’Archipel
+Frédéric Castoldi _ Centre de Gestion de l’Isère 
 
 # Annexe : exemples de processus 
-
- 
 
 ### Exemple de Temps de demandes d’actions : le Triage    ![img](file:///C:/Users/allia/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
 
